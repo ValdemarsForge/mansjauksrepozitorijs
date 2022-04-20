@@ -1,0 +1,2 @@
+# mansjauksrepozitorijs
+Manas matematiksas funkcijas
